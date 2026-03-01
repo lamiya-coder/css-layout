@@ -1,0 +1,67 @@
+.contener {
+  background-color: burlywood;
+  height: 550px;
+  margin: 0 auto;
+  width: 450px;
+}
+.main-desine {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.header {
+  background-color: rgb(39, 142, 216);
+  height: 70px;
+  justify-content: center;
+  color: white;
+  margin: 0 auto;
+  width: 100%;
+}
+.body {
+  background-color: rgb(195, 216, 39);
+  height: 350px;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 100%;
+  align-items: center;
+}
+.footer {
+  background-color: rgb(39, 142, 216);
+  height: 70px;
+  justify-content: center;
+  color: white;
+  margin: 0 auto;
+  width: 100%;
+}
+.aside {
+  background-color: rgb(13, 79, 125);
+  height: 300px;
+  justify-content: center;
+  color: white;
+  margin: 0 auto;
+  width: 20%;
+}
+.articale {
+  background-color: rgb(13, 79, 125);
+  height: 300px;
+  justify-content: center;
+  color: white;
+  margin: 0 auto;
+  width: 70%;
+}
+.image {
+  background-color: rgb(13, 125, 86);
+  height: 50px;
+  justify-content: center;
+  color: white;
+  margin: 0 auto;
+  width: 20%;
+}
+.im {
+  background-color: rgb(13, 79, 125);
+  height: 100px;
+
+  align-items: flex-end;
+  margin: 0 auto;
+  width: 70%;
+}
